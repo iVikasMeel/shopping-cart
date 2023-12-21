@@ -45,7 +45,7 @@ let shopItemsData = [
     id: "thierytbvcbvzdhadjk",
     name: "black suit",
     price: 450,
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    desc: "Lorem ipsum dollor sit amet consectetur adipisicing.",
     img: "images/img-7.png",
   },
   {
