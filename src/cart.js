@@ -87,14 +87,14 @@ let update = (id) => {
   document.getElementById(id).innerHTML = search.item;
   document.getElementById(id).innerHTML = search.item;
   calculation();
-  totalAmount()
+  totalAmount();
 };
 
 let removeItems = (id) => {
   let selectedItem = id;
   basket = basket.filter((x) => x.id !== selectedItem.id);
   generateCartItems();
-  totalAmount()
+  totalAmount();
   calculation();
   localStorage.setItem("data", JSON.stringify(basket));
 };
@@ -120,5 +120,4 @@ let totalAmount = () => {
   } else return;
 };
 
-totalAmount()
-
+totalAmount();
