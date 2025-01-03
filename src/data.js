@@ -50,7 +50,7 @@ let shopItemsData = [
   },
   {
     id: "trfoiwfcnbcawdjksadjk",
-    name: "polo shirt",
+    name: "Polo Shirt",
     price: 45,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-8.png",
