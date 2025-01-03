@@ -36,7 +36,7 @@ let shopItemsData = [
   },
   {
     id: "iuertrywebncdjksadjk",
-    name: "Casual shoes",
+    name: "Casual Shoes",
     price: 200,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-6.png",
